@@ -1,0 +1,38 @@
+<div class="changes">
+
+    <form [formGroup]="formdata">
+    
+        <div class="form-group">
+            <mat-form-field appearance="outline">
+                <mat-label for="name">Name:</mat-label>
+                <input matInput type="text" name="name" class="form-control" formControlName="name">
+            </mat-form-field>
+        </div>
+         
+    
+        <div class="form-group">
+            <mat-form-field appearance="outline">
+                <mat-label for="description">description:</mat-label>
+                <input matInput type="text" name="description" class="form-control" formControlName="description">
+            </mat-form-field>
+        </div>
+    
+        <pre></pre>
+        <div class="form-group">
+            <mat-form-field appearance="outline">
+                <mat-label for="category"> category: </mat-label><br>
+                <mat-select formControlName="category">
+                    <mat-option value="beginners">beginners</mat-option>
+                    <mat-option value="advanced"> advanced</mat-option>
+                </mat-select>
+                <!-- <input matInput  name="category" class="form-control" formControlName="category">   -->
+            </mat-form-field>
+    
+    
+        </div>
+        <button type="cancel" (click)="cancel()">cancel</button>
+        <button class="gap"    (click)="save(formdata.value)">save</button>
+    
+    </form>
+    
+    </div>

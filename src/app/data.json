@@ -1,0 +1,104 @@
+{
+  "Courses": [
+    {
+      "id": "1",
+      "name": "python",
+      "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+      "icon": "https://th.bing.com/th/id/OIP.EDJ9xoErBbZqK2tExVoJfAHaHY?w=200&h=199&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "2000",
+      "image": "https://th.bing.com/th/id/OIP.O2Ngqjw2BWe5JHQIV3JXXQHaD8?w=313&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "category": "beginners",
+      "lessoncount": "2"
+    },
+    {
+      "id": "2",
+      "name": "Angular",
+      "description": "Angular is a development platform, built on TypeScript .",
+      "icon": "https://th.bing.com/th/id/OIP.wYJFh-AF-HvJ47HxJUMyxAHaHA?w=204&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "1500",
+      "image": "https://th.bing.com/th/id/OIP.YvcTUTAJyq0B-NGV1oR1hQHaD1?w=324&h=179&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "category": "advanced",
+      "lessoncount": "1"
+    },
+    {
+      "id": "3",
+      "name": "SQL",
+      "description": "SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in a relational database",
+      "icon": "https://th.bing.com/th?q=SQL+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+      "price": "3000",
+      "image": "https://th.bing.com/th/id/OIP.dk2xs1Q1pWaMmBIPSghdoQHaEK?w=318&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "category": "advanced",
+      "lessoncount": "13"
+    },
+    {
+      "id": "4",
+      "name": "Js",
+      "description": "JavaScript is a lightweight, interpreted programming language.Open and cross-platform",
+      "icon": "https://th.bing.com/th/id/OIP.7M2ozah2nfvoMu9kcYd5_AHaIA?w=163&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "3000",
+      "image": "https://1.bp.blogspot.com/-PcoNL9YCuIM/X7aUJiI6mtI/AAAAAAAAP3c/2EjyLFGHdko_mFOU8Ud3BnHfQg22ALSIgCLcBGAsYHQ/s1920/The-Complete-JavaScript-Course-2020-Build-Real-Projects.jpg",
+      "category": "advanced",
+      "lessoncount": "4"
+    },
+    {
+      "id": "5",
+      "name": "C+",
+      "description": "C is a procedural programming languageC is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs.",
+      "icon": "https://th.bing.com/th?q=C-language+Icon&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+      "price": "1500",
+      "image": "https://th.bing.com/th/id/OIP.UPZDiWlKaLX_-cWlPjQORQHaEK?w=297&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "category": "beginners",
+      "lessoncount": "3"
+    },
+    {
+      "id": "6",
+      "name": "C++",
+      "description": "C++ is a cross-platform language that can be used to create high-performance applications",
+      "icon": "https://th.bing.com/th/id/OIP.vGJcEY_Sjr-FRZy-slqQYwHaIV?w=150&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "2500",
+      "image": "https://hackr.io/blog/cpp-course/thumbnail/large",
+      "category": "beginners",
+      "lessoncount": "4"
+    },
+    {
+      "id": "7",
+      "name": "HTML",
+      "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
+      "icon": "https://th.bing.com/th/id/OIP.pqcPskVdTrJqfhZ-Z49AtQHaHn?w=196&h=202&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "3000",
+      "image": "https://th.bing.com/th/id/OIP.qCbRih7bB9cIFnbM1FyXZAHaEK?w=317&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "category": "beginners",
+      "lessoncount": "4"
+    },
+    {
+      "id": "8",
+      "name": "JQuery",
+      "description": "jQuery is a small and lightweight JavaScript library.jQuery means write less do more",
+      "icon": "",
+      "price": "2000",
+      "image": "https://th.bing.com/th/id/OIP.uUT2iWQiFrCvkXzwssGlfAHaEK?w=280&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "category": "advanced",
+      "lessoncount": "4"
+    },
+    {
+      "id": "9",
+      "name": "Java",
+      "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "icon": "https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png",
+      "price": "1000",
+      "image": "https://smartsolutionsindia.co.in/wp-content/uploads/2019/03/java-banner.jpg",
+      "category": "beginners",
+      "lessoncount": "4"
+    },
+    {
+      "id": "10",
+      "name": "PHP",
+      "description": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites",
+      "icon": "https://th.bing.com/th/id/OIP.pkqphAig1t-PCsy4dkVrfAHaD5?w=273&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "price": "2000",
+      "image": "https://th.bing.com/th/id/OIP.VdUPtTEm-BOV4LOhYBHVTAHaD2?pid=ImgDet&rs=1",
+      "category": "advanced",
+      "lessoncount": "4"
+    }
+  ]
+}

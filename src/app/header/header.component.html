@@ -1,0 +1,16 @@
+<mat-toolbar class="header">
+    <button mat-icon-button (click)="snav.toggle()">
+        <mat-icon>menu</mat-icon>
+    </button>
+</mat-toolbar>
+    <mat-sidenav-container>
+        <mat-sidenav class="example-drawer" #snav mode="side">
+            <a mat-list-item  (click)="snav.toggle()"> Course</a>
+           
+        </mat-sidenav>
+
+        <mat-sidenav-content>
+            <router-outlet></router-outlet>
+        </mat-sidenav-content>
+
+    </mat-sidenav-container>

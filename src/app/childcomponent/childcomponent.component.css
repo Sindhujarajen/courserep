@@ -1,0 +1,13 @@
+.example-card{
+    height: 500px;
+    width: 350px;
+   
+ }
+ .row{
+    display :inline-flex;
+    justify-content: space-evenly;
+ }
+ img{
+   height:400px;
+   width:350px
+ }
